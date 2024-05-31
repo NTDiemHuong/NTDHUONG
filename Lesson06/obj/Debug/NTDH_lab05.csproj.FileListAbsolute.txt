@@ -1,0 +1,4 @@
+C:\xampp\htdocs\2911\Huong\Lesson06\Lesson06\obj\Debug\NTDH_lab05.csproj.AssemblyReference.cache
+C:\xampp\htdocs\2911\Huong\Lesson06\Lesson06\obj\Debug\NTDH_lab05.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\2911\Huong\Lesson06\Lesson06\obj\Debug\Lesson06.dll
+C:\xampp\htdocs\2911\Huong\Lesson06\Lesson06\obj\Debug\Lesson06.pdb
